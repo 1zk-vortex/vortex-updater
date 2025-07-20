@@ -17,7 +17,14 @@
     "Sound notifications"
   ],
   "bug_fixes": [
-    "Initial release - no previous bugs"
+    "Fixed high system resource consumption during downloads",
+    "Resolved intermittent slow download speeds",
+    "Fixed memory leaks in queue processing",
+    "Resolved UI freezing during large file downloads",
+    "Fixed incorrect file size display for some videos",
+    "Resolved audio extraction issues with certain formats",
+    "Fixed scheduler not working on system restart",
+    "Resolved notification sound not playing on some systems"
   ],
   "improvements": [
     "Optimized download performance",

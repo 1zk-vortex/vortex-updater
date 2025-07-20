@@ -1,6 +1,6 @@
 {
-  "version": "5.2.5",
-  "download_url": "https://github.com/1zk-vortex/vortex-updater/releases/download/v5.2.5/VortexDownloaderSetup.exe",
+  "version": "5.2.4",
+  "download_url": "https://github.com/1zk-vortex/vortex-updater/releases/download/v5.2.4/VortexDownloaderSetup.exe",
   "changelog": "Initial release of Vortex Downloader with all core features",
   "release_date": "2024-01-15",
   "file_size": "8.05 MB",

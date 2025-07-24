@@ -1,47 +1,25 @@
 {
-  "version": "5.3.5",
+  "latest_version": "5.3.5",
   "download_url": "https://github.com/1zk-vortex/vortex-updater/releases/download/v5.3.5/VortexDownloaderSetup.exe",
-  "changelog": "Enhanced UI with modern toggle switches and improved MP3 handling",
-  "release_date": "2025-07-21",
-  "file_size": "132.49 MB",
-  "checksum": "sha256_hash_here",
-  "min_required_version": "5.0.0",
+  "release_date": "2024-01-15",
+  "file_size": "45.2 MB",
+  "changelog": "Performance improvements and bug fixes for enhanced user experience.",
   "features": [
-    "YouTube video downloader",
-    "Queue management system",
-    "Download history",
-    "Scheduler functionality",
-    "Speed test tool",
-    "Multi-language support",
-    "Dark theme interface",
-    "Sound notifications",
-    "Modern toggle switch UI for quality selection",
-    "Smart MP3 conversion with quality button disabling",
-    "Enhanced visual feedback for user interactions",
-    "Improved button consistency and spacing"
+    "Improved download speed by 25%",
+    "Support for new video formats",
+    "Enhanced user interface",
+    "Updated notification system"
   ],
   "bug_fixes": [
-    "Fixed high system resource consumption during downloads",
-    "Resolved intermittent slow download speeds",
-    "Fixed memory leaks in queue processing",
-    "Resolved UI freezing during large file downloads",
-    "Fixed incorrect file size display for some videos",
-    "Resolved audio extraction issues with certain formats",
-    "Fixed scheduler not working on system restart",
-    "Resolved notification sound not playing on some systems",
-    "Fixed infinite loop issue in theme application",
-    "Resolved quality button state management conflicts"
+    "Fixed download stalling issue with large files",
+    "Resolved settings not saving properly",
+    "Fixed activation system error",
+    "Resolved audio cutting out problem"
   ],
   "improvements": [
-    "Optimized download performance",
-    "Enhanced user interface with modern design",
-    "Improved error handling",
-    "Redesigned quality selection with toggle switches",
-    "Added intelligent MP3 mode with automatic quality disabling",
-    "Enhanced visual consistency across all UI elements",
-    "Improved button responsiveness and user feedback",
-    "Better spacing and layout optimization",
-    "Streamlined MP3 conversion workflow",
-    "Enhanced theme application system"
+    "Reduced memory usage",
+    "Faster startup time",
+    "Improved speed test accuracy",
+    "Updated system libraries"
   ]
 }

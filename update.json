@@ -2,24 +2,48 @@
   "latest_version": "5.5.1",
   "download_url": "https://github.com/1zk-vortex/vortex-updater/releases/latest/download/VortexDownloaderSetup.exe",
   "release_date": "2025-08-15",
-  "file_size": "270  MB",
-  "changelog": "Performance improvements and bug fixes for enhanced user experience.",
-  "features": [
-    "Improved download speed by 25%",
-    "Support for new video formats", 
-    "Enhanced user interface",
-    "Updated notification system"
-  ],
+  "file_size": "270 MB",
+  "app_name": "Vortex Downloader",
+  "description": "A powerful tool for managing and optimizing file downloads. Supports multiple formats and provides a smooth user experience.",
+  "update_type": "Optional",
+  "language": "EN only",
+  "changelog": "Major improvements to the download engine, UI stability, and installer cleanup.",
+  "features": {
+    "Download Engine": [
+      "Enhanced version of download_thread_enhanced.py",
+      "Smart caching system for downloads",
+      "25% faster download speed and improved stability"
+    ],
+    "User Interface": [
+      "Improved UI responsiveness",
+      "Fixed audio_progress_bar error",
+      "Updated signal handling in download_thread",
+      "Added new signal processing functions"
+    ],
+    "Installer & Files": [
+      "Cleaned and organized file structure",
+      "Added build_installer for installer creation"
+    ]
+  },
   "bug_fixes": [
     "Fixed download stalling issue with large files",
     "Resolved settings not saving properly",
     "Fixed activation system error",
-    "Resolved audio cutting out problem"
+    "Resolved audio cutting out problem",
+    "Fixed signal issues in download_thread",
+    "Corrected UI signal handling bugs"
   ],
   "improvements": [
     "Reduced memory usage",
-    "Faster startup time", 
+    "Faster startup time",
     "Improved speed test accuracy",
-    "Updated system libraries"
+    "Updated system libraries",
+    "Full cleanup of files and shortcuts during uninstall",
+    "Improved installer reliability and cleanup"
+  ],
+  "notes": [
+    "This update does not require a system restart.",
+    "We recommend updating to get the best performance.",
+    "If you encounter any issues, please contact us via the official GitHub page."
   ]
 }

@@ -1,8 +1,8 @@
 {
   "latest_version": "5.5.1",
   "download_url": "https://github.com/1zk-vortex/vortex-updater/releases/latest/download/VortexDownloaderSetup.exe",
-  "release_date": "2025-08-05",
-  "file_size": "271  MB",
+  "release_date": "2025-08-15",
+  "file_size": "270  MB",
   "changelog": "Performance improvements and bug fixes for enhanced user experience.",
   "features": [
     "Improved download speed by 25%",
